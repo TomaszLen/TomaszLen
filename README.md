@@ -4,7 +4,7 @@ I'm using this platform for exercises and code sharing for my classes.
 
 
 ### Link to my webpage:
-
+[My Page](https://tomaszlen.github.io/)
 
 
 <!--
