@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a student of AGH University of Science and Technology.
+I'm currently a student of AGH University of Science and Technology. <br />
 I'm using this platform for exercises and code sharing for my classes.
 
 
